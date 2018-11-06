@@ -1,6 +1,6 @@
 # zao ZSH Theme
 
-Forked form Zeta
+Forked from Zeta
 
 Another :star:theme for oh-my-zsh
 
